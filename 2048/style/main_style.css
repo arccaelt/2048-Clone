@@ -1,0 +1,30 @@
+/* Grid cell background rgba(238, 228, 218, 0.35); */
+/* Table background color: rgb(187, 173, 160) */
+
+table
+{
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgb(187, 173, 160);
+    margin: 0 auto;
+    /* width: 25rem;
+    height: 25rem; */
+}
+
+
+#new_game
+{
+    font-size: 1.25rem;
+    display: block;
+    margin: 0 auto;
+}
+
+td
+{
+    font-size: 2rem;
+    width: 8rem;
+    height: 8rem;
+    text-align: center;
+    border-width: 9px;
+    background-color: rgba(238, 228, 218, 0.35);
+}
